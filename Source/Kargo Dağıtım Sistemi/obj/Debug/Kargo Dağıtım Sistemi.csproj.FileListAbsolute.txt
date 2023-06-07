@@ -1,0 +1,66 @@
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.exe.config
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.exe
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.pdb
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.AssemblyReference.cache
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.exe.config
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.Properties.Resources.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.GenerateResource.cache
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.CoreCompileInputs.cache
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.exe
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.pdb
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.Fody.CopyLocal.cache
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MainForm.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.LoginUI.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.SplashUI.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.RegisterUI.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberPanel.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.CreateOrder.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.CargoTracking.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.AccountSettings.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminPanel.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminUI_Contents.MapUI.resources
+E:/Projects/CSharp/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminUI_Contents.CargoSettings.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.exe.config
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.exe
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.pdb
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.exe.config
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminPanel.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminUI_Contents.CargoSettings.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminUI_Contents.MapUI.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MainForm.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.LoginUI.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberPanel.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.AccountSettings.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.CargoTracking.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.CreateOrder.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.Properties.Resources.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.RegisterUI.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.SplashUI.resources
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.GenerateResource.cache
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.CoreCompileInputs.cache
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.exe
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.pdb
+C:/Users/HP/Desktop/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.Fody.CopyLocal.cache
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.exe.config
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.exe
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/bin/Debug/Kargo Dağıtım Sistemi.pdb
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.AssemblyReference.cache
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.exe.config
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminPanel.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminUI_Contents.CargoSettings.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.AdminUI_Contents.MapUI.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MainForm.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.LoginUI.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberPanel.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.AccountSettings.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.CargoTracking.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.MemberUI_Contents.CreateOrder.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.Resources.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.RegisterUI.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo_Dağıtım_Sistemi.SplashUI.resources
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.GenerateResource.cache
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.CoreCompileInputs.cache
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.csproj.Fody.CopyLocal.cache
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.exe
+/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/Debug/Kargo Dağıtım Sistemi.pdb

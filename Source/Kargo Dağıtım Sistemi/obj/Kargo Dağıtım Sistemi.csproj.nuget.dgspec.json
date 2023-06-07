@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi.csproj": {}
+  },
+  "projects": {
+    "/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi.csproj",
+        "projectName": "Kargo Dağıtım Sistemi",
+        "projectPath": "/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/Kargo Dağıtım Sistemi.csproj",
+        "packagesPath": "/Users/hakanakgun/.nuget/packages/",
+        "outputPath": "/Users/hakanakgun/Desktop/Çalışmalar/yazlab12021/Source/Kargo Dağıtım Sistemi/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/hakanakgun/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "GMap.NET.WinForms": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.2.4, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
